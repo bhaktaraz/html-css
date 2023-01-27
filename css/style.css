@@ -1,0 +1,12 @@
+.img{
+  border: 2px black solid;
+  width: 200px;
+  float: left;  
+  margin-right: 20px; 
+  border-radius: 130px;
+}
+
+.username{
+  color: red;
+  font-weight: 600;
+}
